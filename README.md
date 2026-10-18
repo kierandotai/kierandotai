@@ -1,5 +1,5 @@
 <div align="center">
-<h1>0xKilroy</h1>
+<h1>Kieran</h1>
 <p><strong>Building credential infrastructure for AI agents.</strong></p>
 <p>
 <a href="https://cred.ninja">cred.ninja</a> ·
